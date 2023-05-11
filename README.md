@@ -1,4 +1,6 @@
 # Road-Accident-Analysis using Power Bi Desktop on the Excel dataset.
+Build Dashboard using Power Bi on Excel dataset to gain insights on Road Accident Analysis on casualties in year 2021 and 2022 on the basis of different Road Condition,Weather Condition and Vechile Type. 
+
 
 
 DataSet can be downloaded from here: 
